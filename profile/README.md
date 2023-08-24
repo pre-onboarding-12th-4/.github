@@ -1,4 +1,4 @@
-## 안녕하세요 프론트엔드🙋‍♀️ 12차 4팀 Repository입니다.
+## 안녕하세요!🙋‍♀️ 프론트엔드 12차 4팀 Repository입니다.
 <!--
 
 **Here are some ideas to get you started:**
